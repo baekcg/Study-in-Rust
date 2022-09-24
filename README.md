@@ -1,0 +1,1 @@
+https://doc.rust-lang.org/book/ (Korean: https://rinthel.github.io/rust-lang-book-ko/foreword.html) 에 있는 Rust 내용을 학습하고 복습하려고 만든 레포
