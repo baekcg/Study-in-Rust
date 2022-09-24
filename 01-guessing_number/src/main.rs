@@ -3,7 +3,7 @@ use rand::prelude::*;
 use std::cmp::Ordering;
 
 fn main() {
-    println!("== Guess A Number ==");
+	println!("== Guess A Number ==");
 	println!("Input your number: ");
 
 	let mut rng = rand::thread_rng();
